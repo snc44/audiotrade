@@ -1,0 +1,402 @@
+<Accounts>
+   <Account id="1" ownerId="1">
+      <type>MasterCard</type>
+      <score>0.0</score>
+   </Account>
+   <Account id="2" ownerId="2">
+      <type>MasterCard</type>
+      <score>0.0</score>
+   </Account>
+   <Account id="3" ownerId="3">
+      <type>MasterCard</type>
+      <score>0.0</score>
+   </Account>
+   <Account id="4" ownerId="4">
+      <type>MasterCard</type>
+      <score>0.0</score>
+   </Account>
+   <Account id="5" ownerId="5">
+      <type>MasterCard</type>
+      <score>0.0</score>
+   </Account>
+   <Account id="6" ownerId="6">
+      <type>MasterCard</type>
+      <score>0.0</score>
+   </Account>
+   <Account id="7" ownerId="7">
+      <type>MasterCard</type>
+      <score>0.0</score>
+   </Account>
+   <Account id="8" ownerId="8">
+      <type>MasterCard</type>
+      <score>0.0</score>
+   </Account>
+   <Account id="9" ownerId="9">
+      <type>MasterCard</type>
+      <score>0.0</score>
+   </Account>
+   <Account id="10" ownerId="10">
+      <type>MasterCard</type>
+      <score>0.0</score>
+   </Account>
+   <Account id="11" ownerId="11">
+      <type>MasterCard</type>
+      <score>0.0</score>
+   </Account>
+   <Account id="12" ownerId="12">
+      <type>MasterCard</type>
+      <score>0.0</score>
+   </Account>
+   <Account id="13" ownerId="13">
+      <type>MasterCard</type>
+      <score>0.0</score>
+   </Account>
+   <Account id="14" ownerId="14">
+      <type>MasterCard</type>
+      <score>0.0</score>
+   </Account>
+   <Account id="15" ownerId="15">
+      <type>MasterCard</type>
+      <score>0.0</score>
+   </Account>
+   <Account id="16" ownerId="16">
+      <type>MasterCard</type>
+      <score>0.0</score>
+   </Account>
+   <Account id="17" ownerId="17">
+      <type>MasterCard</type>
+      <score>0.0</score>
+   </Account>
+   <Account id="18" ownerId="18">
+      <type>MasterCard</type>
+      <score>0.0</score>
+   </Account>
+   <Account id="19" ownerId="19">
+      <type>MasterCard</type>
+      <score>0.0</score>
+   </Account>
+   <Account id="20" ownerId="20">
+      <type>MasterCard</type>
+      <score>0.0</score>
+   </Account>
+   <Account id="21" ownerId="21">
+      <type>MasterCard</type>
+      <score>0.0</score>
+   </Account>
+   <Account id="22" ownerId="22">
+      <type>MasterCard</type>
+      <score>0.0</score>
+   </Account>
+   <Account id="23" ownerId="23">
+      <type>MasterCard</type>
+      <score>0.0</score>
+   </Account>
+   <Account id="24" ownerId="24">
+      <type>MasterCard</type>
+      <score>0.0</score>
+   </Account>
+   <Account id="25" ownerId="25">
+      <type>MasterCard</type>
+      <score>0.0</score>
+   </Account>
+   <Account id="26" ownerId="26">
+      <type>MasterCard</type>
+      <score>0.0</score>
+   </Account>
+   <Account id="27" ownerId="27">
+      <type>MasterCard</type>
+      <score>0.0</score>
+   </Account>
+   <Account id="28" ownerId="28">
+      <type>MasterCard</type>
+      <score>0.0</score>
+   </Account>
+   <Account id="29" ownerId="29">
+      <type>MasterCard</type>
+      <score>0.0</score>
+   </Account>
+   <Account id="30" ownerId="30">
+      <type>MasterCard</type>
+      <score>0.0</score>
+   </Account>
+   <Account id="31" ownerId="31">
+      <type>MasterCard</type>
+      <score>0.0</score>
+   </Account>
+   <Account id="32" ownerId="32">
+      <type>MasterCard</type>
+      <score>0.0</score>
+   </Account>
+   <Account id="33" ownerId="33">
+      <type>MasterCard</type>
+      <score>0.0</score>
+   </Account>
+   <Account id="34" ownerId="34">
+      <type>MasterCard</type>
+      <score>0.0</score>
+   </Account>
+   <Account id="35" ownerId="35">
+      <type>MasterCard</type>
+      <score>0.0</score>
+   </Account>
+   <Account id="36" ownerId="36">
+      <type>MasterCard</type>
+      <score>0.0</score>
+   </Account>
+   <Account id="37" ownerId="37">
+      <type>MasterCard</type>
+      <score>0.0</score>
+   </Account>
+   <Account id="38" ownerId="38">
+      <type>MasterCard</type>
+      <score>0.0</score>
+   </Account>
+   <Account id="39" ownerId="39">
+      <type>MasterCard</type>
+      <score>0.0</score>
+   </Account>
+   <Account id="40" ownerId="40">
+      <type>MasterCard</type>
+      <score>0.0</score>
+   </Account>
+   <Account id="41" ownerId="41">
+      <type>MasterCard</type>
+      <score>0.0</score>
+   </Account>
+   <Account id="42" ownerId="42">
+      <type>MasterCard</type>
+      <score>0.0</score>
+   </Account>
+   <Account id="43" ownerId="43">
+      <type>MasterCard</type>
+      <score>0.0</score>
+   </Account>
+   <Account id="44" ownerId="44">
+      <type>MasterCard</type>
+      <score>0.0</score>
+   </Account>
+   <Account id="45" ownerId="45">
+      <type>MasterCard</type>
+      <score>0.0</score>
+   </Account>
+   <Account id="46" ownerId="46">
+      <type>MasterCard</type>
+      <score>0.0</score>
+   </Account>
+   <Account id="47" ownerId="47">
+      <type>MasterCard</type>
+      <score>0.0</score>
+   </Account>
+   <Account id="48" ownerId="48">
+      <type>MasterCard</type>
+      <score>0.0</score>
+   </Account>
+   <Account id="49" ownerId="49">
+      <type>MasterCard</type>
+      <score>0.0</score>
+   </Account>
+   <Account id="50" ownerId="50">
+      <type>MasterCard</type>
+      <score>0.0</score>
+   </Account>
+   <Account id="51" ownerId="51">
+      <type>Qiwi</type>
+      <score>0.0</score>
+   </Account>
+   <Account id="52" ownerId="52">
+      <type>Qiwi</type>
+      <score>0.0</score>
+   </Account>
+   <Account id="53" ownerId="53">
+      <type>Qiwi</type>
+      <score>0.0</score>
+   </Account>
+   <Account id="54" ownerId="54">
+      <type>Qiwi</type>
+      <score>0.0</score>
+   </Account>
+   <Account id="55" ownerId="55">
+      <type>Qiwi</type>
+      <score>0.0</score>
+   </Account>
+   <Account id="56" ownerId="56">
+      <type>Qiwi</type>
+      <score>0.0</score>
+   </Account>
+   <Account id="57" ownerId="57">
+      <type>Qiwi</type>
+      <score>0.0</score>
+   </Account>
+   <Account id="58" ownerId="58">
+      <type>Qiwi</type>
+      <score>0.0</score>
+   </Account>
+   <Account id="59" ownerId="59">
+      <type>Qiwi</type>
+      <score>0.0</score>
+   </Account>
+   <Account id="60" ownerId="60">
+      <type>Qiwi</type>
+      <score>0.0</score>
+   </Account>
+   <Account id="61" ownerId="61">
+      <type>Qiwi</type>
+      <score>0.0</score>
+   </Account>
+   <Account id="62" ownerId="62">
+      <type>Qiwi</type>
+      <score>0.0</score>
+   </Account>
+   <Account id="63" ownerId="63">
+      <type>Qiwi</type>
+      <score>0.0</score>
+   </Account>
+   <Account id="64" ownerId="64">
+      <type>Qiwi</type>
+      <score>0.0</score>
+   </Account>
+   <Account id="65" ownerId="65">
+      <type>Qiwi</type>
+      <score>0.0</score>
+   </Account>
+   <Account id="66" ownerId="66">
+      <type>Qiwi</type>
+      <score>0.0</score>
+   </Account>
+   <Account id="67" ownerId="67">
+      <type>Qiwi</type>
+      <score>0.0</score>
+   </Account>
+   <Account id="68" ownerId="68">
+      <type>Qiwi</type>
+      <score>0.0</score>
+   </Account>
+   <Account id="69" ownerId="69">
+      <type>Qiwi</type>
+      <score>0.0</score>
+   </Account>
+   <Account id="70" ownerId="70">
+      <type>Qiwi</type>
+      <score>0.0</score>
+   </Account>
+   <Account id="71" ownerId="71">
+      <type>Qiwi</type>
+      <score>0.0</score>
+   </Account>
+   <Account id="72" ownerId="72">
+      <type>Qiwi</type>
+      <score>0.0</score>
+   </Account>
+   <Account id="73" ownerId="73">
+      <type>Qiwi</type>
+      <score>0.0</score>
+   </Account>
+   <Account id="74" ownerId="74">
+      <type>Qiwi</type>
+      <score>0.0</score>
+   </Account>
+   <Account id="75" ownerId="75">
+      <type>Qiwi</type>
+      <score>0.0</score>
+   </Account>
+   <Account id="76" ownerId="76">
+      <type>Qiwi</type>
+      <score>0.0</score>
+   </Account>
+   <Account id="77" ownerId="77">
+      <type>Qiwi</type>
+      <score>0.0</score>
+   </Account>
+   <Account id="78" ownerId="78">
+      <type>Qiwi</type>
+      <score>0.0</score>
+   </Account>
+   <Account id="79" ownerId="79">
+      <type>Qiwi</type>
+      <score>0.0</score>
+   </Account>
+   <Account id="80" ownerId="80">
+      <type>Qiwi</type>
+      <score>0.0</score>
+   </Account>
+   <Account id="81" ownerId="81">
+      <type>Qiwi</type>
+      <score>0.0</score>
+   </Account>
+   <Account id="82" ownerId="82">
+      <type>Qiwi</type>
+      <score>0.0</score>
+   </Account>
+   <Account id="83" ownerId="83">
+      <type>Qiwi</type>
+      <score>0.0</score>
+   </Account>
+   <Account id="84" ownerId="84">
+      <type>Qiwi</type>
+      <score>0.0</score>
+   </Account>
+   <Account id="85" ownerId="85">
+      <type>Qiwi</type>
+      <score>0.0</score>
+   </Account>
+   <Account id="86" ownerId="86">
+      <type>Qiwi</type>
+      <score>0.0</score>
+   </Account>
+   <Account id="87" ownerId="87">
+      <type>Qiwi</type>
+      <score>0.0</score>
+   </Account>
+   <Account id="88" ownerId="88">
+      <type>Qiwi</type>
+      <score>0.0</score>
+   </Account>
+   <Account id="89" ownerId="89">
+      <type>Qiwi</type>
+      <score>0.0</score>
+   </Account>
+   <Account id="90" ownerId="90">
+      <type>Qiwi</type>
+      <score>0.0</score>
+   </Account>
+   <Account id="91" ownerId="91">
+      <type>Qiwi</type>
+      <score>0.0</score>
+   </Account>
+   <Account id="92" ownerId="92">
+      <type>Qiwi</type>
+      <score>0.0</score>
+   </Account>
+   <Account id="93" ownerId="93">
+      <type>Qiwi</type>
+      <score>0.0</score>
+   </Account>
+   <Account id="94" ownerId="94">
+      <type>Qiwi</type>
+      <score>0.0</score>
+   </Account>
+   <Account id="95" ownerId="95">
+      <type>Qiwi</type>
+      <score>0.0</score>
+   </Account>
+   <Account id="96" ownerId="96">
+      <type>Qiwi</type>
+      <score>0.0</score>
+   </Account>
+   <Account id="97" ownerId="97">
+      <type>Qiwi</type>
+      <score>0.0</score>
+   </Account>
+   <Account id="98" ownerId="98">
+      <type>Qiwi</type>
+      <score>0.0</score>
+   </Account>
+   <Account id="99" ownerId="99">
+      <type>Qiwi</type>
+      <score>0.0</score>
+   </Account>
+   <Account id="100" ownerId="100">
+      <type>Qiwi</type>
+      <score>0.0</score>
+   </Account>
+</Accounts>
